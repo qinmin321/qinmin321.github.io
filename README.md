@@ -1,2 +1,1 @@
-# qinmin321.github.io
-home
+Min's homepage
